@@ -1,0 +1,26 @@
+{
+  "name": "cosnole_log_color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepjavinindia/console_log_color.git"
+  },
+  "keywords": [],
+  "author": "KK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuldeepjavinindia/console_log_color/issues"
+  },
+  "homepage": "https://github.com/kuldeepjavinindia/console_log_color#readme",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  },
+  "files": ["lib/**/*"]
+}
